@@ -1,4 +1,5 @@
-<img width="2304" height="2074" alt="Untitled" src="https://github.com/user-attachments/assets/56f39152-72e7-4e3f-af14-a41ab25e8c86" />
+<img width="1715" height="2074" alt="Untitled" src="https://github.com/user-attachments/assets/0341e7d5-2057-4f4a-afb4-152b8d3593e4" />
+
 # RE1HD Builder
 
 Self-contained builder for the classic PC edition of Resident Evil 1 (Biohazard, SourceNext / Mediakite): feed it the disc image, it applies the community HD texture, audio, FMV and engine mod archives, and assembles a ready-to-run build folder. The packaged app embeds everything (7-Zip, all mod archives, menu music) into one portable release. No searching for files, no external tools needed.
