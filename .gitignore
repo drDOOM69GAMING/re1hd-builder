@@ -1,0 +1,8 @@
+/target
+/release
+*.log
+
+# Packed release carriers (multi-GB, published as GitHub release assets instead)
+/re1hd-builder-packed*.exe
+/headless-packed*.exe
+/re1hd-builder.exe

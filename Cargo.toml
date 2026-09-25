@@ -1,0 +1,21 @@
+[package]
+name = "re1hd-builder"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.29"
+fs_extra = "1.3"
+rfd = "0.14"
+windows-sys = { version = "0.52", features = ["Win32_System_Diagnostics_Debug", "Win32_Foundation"] }
+rodio = "0.17"
+xmrs = { version = "0.15", features = ["import"] }
+xmrsplayer = "0.15"
+image = "0.25"
+
+[build-dependencies]
+embed-resource = "2"
+
+[profile.release]
+opt-level = 2
+lto = true
